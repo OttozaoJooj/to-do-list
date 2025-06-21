@@ -1,0 +1,14 @@
+# Módulos do Composer
+vendor
+
+# Arquivos de texto
+*.txt
+
+# Arquivo de Credenciais
+.env
+
+# Arquivos SQL
+*.sql
+
+# Arquivo de Licença 
+.LICENSE
