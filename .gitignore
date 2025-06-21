@@ -10,5 +10,3 @@ vendor
 # Arquivos SQL
 *.sql
 
-# Arquivo de Licença 
-.LICENSE
